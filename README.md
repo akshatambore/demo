@@ -4,4 +4,4 @@ learn git
 <br/>
 Add new changes
 <br/>
-Author: akshat
+Author: akshat ambore
